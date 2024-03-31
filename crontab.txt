@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+
+HOME_PATH="/home/alan/python/pyCrawler/pamimi/app"
+
+#50 13 * * * cd $HOME_PATH && $HOME_PATH/auto_scrape.sh >> $HOME_PATH/cron_output.log 2>&1
